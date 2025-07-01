@@ -21,7 +21,7 @@ Want simple? It's ready. Want powerful and personalized? It's ready for that too
 
 🚀 Installation
 - Download this repo or clone it with Git:
-git clone https://github.com/yourname/gimpinator.git
+git clone [https://github.com/yourname/gimpinator.git](https://github.com/PCOW/Gimpinator.git)
 - Place gimpinator_ex.py into your GIMP plug-ins folder:
 - Windows:
 C:\Users\<YOU>\AppData\Roaming\GIMP\3.0\plug-ins\
